@@ -1,0 +1,91 @@
+#----------------------------------
+# IWTB colorscheme
+#
+# AUTHOR: PHØ
+# WEBSITE: https://www.nerdbude.com
+# EMAIL: post@nerdbude.com
+# TWITTER: @PHO42
+#----------------------------------
+
+colors:
+
+! DARK
+
+! special
+*.foreground: #d9d9d9
+*.background: #444444
+*.cursorColor: #d9d9d9
+
+! Black and Gray
+*color0: #3F3F3F
+*color8: #818181
+
+! Darkred and Red
+*color1: #b04949
+*color9: #dd7676
+
+! Darkgreen and Green
+*color2: #a5ad52 
+*color10: #b5bd65
+
+! Darkyellow and Yellow
+*color3: #e08d53
+*color11: #dbb874
+
+! Darkblue and Blue
+*color4: #6f9abe
+*color12: #71a5d2
+
+! Darkmagenta and Magenta
+*color5: #9660a8
+*color13: #a479b1
+
+! Darkcyan and Cyan
+*color6: #52aca0
+*color14: #84b3ad
+
+! Lightgrey and White
+*color7: #818c97
+*color15: #bdbdbd
+
+
+! LIGHT
+
+! special
+*.foreground: #000000
+*.background: #f3f3f3
+*.cursorColor: #000000
+
+! Black and Gray
+*color0: #646464
+*color8: #6A6A6A
+
+! Darkred and Red
+*color1: #af2d2d
+*color9: #ba3939
+
+! Darkgreen and Green
+*color2: #656c1a
+*color10: #646a21
+
+! Darkyellow and Yellow
+*color3: #a27918
+*color11: #b4924f
+
+! Darkblue and Blue
+*color4: #41698a
+*color12: #447eb0
+
+! Darkmagenta and Magenta
+*color5: #835792
+*color13: #a479b1
+
+! Darkcyan cyan
+*color6: #448980
+*color14: #659f97
+
+! Lightgray and Gray
+*color7: #717171
+*color15: #41464b
+
+
