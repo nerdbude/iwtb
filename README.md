@@ -4,7 +4,5 @@ iwtb is a simple colorscheme for a bunch of tools. It´s available in dark and l
 
 iwtb is available for:
 
-- vim
 - xterm
-- iterm
 - ... more coming soon
