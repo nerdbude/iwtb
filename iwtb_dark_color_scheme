@@ -1,0 +1,50 @@
+#----------------------------------
+# IWTB_DARK colorscheme
+#
+# AUTHOR: PHØ
+# WEBSITE: https://www.nerdbude.com
+# EMAIL: post@nerdbude.com
+# TWITTER: @PHO42
+#----------------------------------
+
+colors:
+
+! DARK
+
+! special
+*.foreground: #d7d7d7
+*.background: #444444
+*.cursorColor: #d7d7d7
+
+! Black and Gray
+*color0: #3a3a3a
+*color8: #8a8a8a
+
+! Darkred and Red
+*color1: #ff5f5f
+*color9: #ff5f87
+
+! Darkgreen and Green
+*color2: #afd75f 
+*color10: #5fd75f
+
+! Darkyellow and Yellow
+*color3: #afaf00
+*color11: #ffff5f
+
+! Darkblue and Blue
+*color4: #87afd7
+*color12: #8787ff
+
+! Darkmagenta and Magenta
+*color5: #875faf
+*color13: #875fff
+
+! Darkcyan and Cyan
+*color6: #00d7d7
+*color14: #00ffd7
+
+! Lightgrey and White
+*color7: #8a8a8a
+*color15: #bcbcbc
+
