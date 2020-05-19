@@ -7,3 +7,23 @@ iwtb is available for:
 - xterm
 - vim (pre-version)
 - ... more coming soon
+
+### xterm
+
+copy the colorscheme to
+
+`.Xdefaults`
+
+
+### VIM
+
+Copy `iwtb_dark.vim` to 
+
+`/.vim/colors`
+
+and use in Vim:
+
+`:colo iwtb_dark`
+
+
+
