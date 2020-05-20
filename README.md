@@ -5,7 +5,7 @@ iwtb is a simple colorscheme - optimized for a dark environment. If you like it,
 iwtb is available for:
 
 - xterm
-- vim (pre-version)
+- vim (alpha-version)
 - ... more coming soon
 
 ### xterm
