@@ -17,7 +17,7 @@ let g:colors_name="iwtb_dark"
 hi Normal          ctermfg=188     ctermbg=238
 hi Cursor          ctermfg=188     ctermbg=238
 hi CursorLine      ctermfg=none    ctermbg=none    
-hi LineNr          ctermfg=142      ctermbg=238
+hi LineNr          ctermfg=110     ctermbg=238
 hi CursorLineNR    ctermfg=none    ctermbg=none    
 
 " - Number column -
@@ -34,7 +34,7 @@ hi TabLineFill     ctermfg=none    ctermbg=none
 hi TabLineSel      ctermfg=none    ctermbg=none    
 
 " - File Navigation / Searching -
-hi Directory       ctermfg=none    ctermbg=none   
+hi Directory       ctermfg=204     ctermbg=none   
 hi Search          ctermfg=none    ctermbg=none   
 hi IncSearch       ctermfg=none    ctermbg=none   
 
@@ -63,8 +63,8 @@ hi SpecialKey      ctermfg=188     ctermbg=238
 
 " Variable types
 hi Constant        ctermfg=77      ctermbg=238  
-hi String          ctermfg=149     ctermbg=238   
-hi StringDelimiter ctermfg=149     ctermbg=238  
+hi String          ctermfg=77      ctermbg=238   
+hi StringDelimiter ctermfg=77      ctermbg=238  
 hi Character       ctermfg=188     ctermbg=238   
 hi Number          ctermfg=227     ctermbg=238   
 hi Boolean         ctermfg=227     ctermbg=238   
@@ -81,7 +81,7 @@ hi Label           ctermfg=99      ctermbg=238
 hi Operator        ctermfg=227     ctermbg=238  
 hi Keyword         ctermfg=110     ctermbg=238   
 hi Exception       ctermfg=110     ctermbg=238   
-hi Comment         ctermfg=142     ctermbg=238    
+hi Comment         ctermfg=110     ctermbg=238    
 
 hi Special         ctermfg=204     ctermbg=238  
 hi SpecialChar     ctermfg=204     ctermbg=238  
@@ -97,16 +97,16 @@ hi Define          ctermfg=142     ctermbg=238
 hi Macro           ctermfg=142     ctermbg=238   
 hi PreCondit       ctermfg=204     ctermbg=238   
 
-hi Type            ctermfg=149     ctermbg=238  
+hi Type            ctermfg=77      ctermbg=238  
 hi StorageClass    ctermfg=142     ctermbg=238   
 hi Structure       ctermfg=142     ctermbg=238   
-hi Typedef         ctermfg=149     ctermbg=238   
+hi Typedef         ctermfg=77      ctermbg=238   
 
 " Diff
-hi DiffAdd         ctermfg=none    ctermbg=none  
-hi DiffChange      ctermfg=none    ctermbg=none 
-hi DiffDelete      ctermfg=none    ctermbg=none   
-hi DiffText        ctermfg=none    ctermbg=none   
+hi DiffAdd         ctermfg=77      ctermbg=238  
+hi DiffChange      ctermfg=227     ctermbg=238 
+hi DiffDelete      ctermfg=203     ctermbg=238   
+hi DiffText        ctermfg=188     ctermbg=238   
 
 " Completion menu
 hi Pmenu           ctermfg=none    ctermbg=none 
